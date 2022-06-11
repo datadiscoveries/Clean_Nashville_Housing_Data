@@ -181,3 +181,6 @@ drop column OwnerAddress, TaxDistrict, PropertyAddress
 
 alter table Housing
 drop column SaleDate
+
+
+
