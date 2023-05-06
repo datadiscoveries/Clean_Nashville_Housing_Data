@@ -1,4 +1,4 @@
-**Nashville Housing Data Cleaning Project in SQL**
+**Nashville Housing Data Cleansing in SQL**
 
 The script cleans data in the Excel file "Nashville Housing Data" in preparation for analysis in the following ways:
 1. Changes the format of the "SaleDate" field ("convert")
